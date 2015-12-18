@@ -9,6 +9,6 @@ EXTERNAL SOURCES:
     :path: ../
 
 SPEC CHECKSUMS:
-  autoLog: bc8897b47fedc4cd9518fc1dcaf443abc0d9440d
+  autoLog: c1047314f919553324a642794e5076ddaf5ea7d7
 
 COCOAPODS: 0.39.0

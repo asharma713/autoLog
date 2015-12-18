@@ -1,9 +1,9 @@
 {
   "name": "autoLog",
   "version": "0.1.0",
-  "summary": "A short description of autoLog.",
-  "description": "",
-  "homepage": "https://github.com/<GITHUB_USERNAME>/autoLog",
+  "summary": "This is not a useful pod",
+  "description": "\"This is not a useful pod. I've made it for the sake of simply learning how to make a pod\"",
+  "homepage": "https://github.com/asharma713/autoLog",
   "license": "MIT",
   "authors": {
     "Amit Sharma": "amitsharma@mac.com"

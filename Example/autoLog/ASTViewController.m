@@ -7,6 +7,7 @@
 //
 
 #import "ASTViewController.h"
+#import "ASTAutoLoggerVC.h"
 
 @interface ASTViewController ()
 
@@ -17,7 +18,10 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
-	// Do any additional setup after loading the view, typically from a nib.
+    ASTAutoLoggerVC *logger = [[ASTAutoLoggerVC alloc]init];
+    [self presentViewController:logger animated:YES completion:nil];
+    
+    // Do any additional setup after loading the view, typically from a nib.
 }
 
 - (void)didReceiveMemoryWarning
