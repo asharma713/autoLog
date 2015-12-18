@@ -1,0 +1,25 @@
+{
+  "name": "autoLog",
+  "version": "0.1.0",
+  "summary": "A short description of autoLog.",
+  "description": "",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/autoLog",
+  "license": "MIT",
+  "authors": {
+    "Amit Sharma": "amitsharma@mac.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/autoLog.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/**/*",
+  "resource_bundles": {
+    "autoLog": [
+      "Pod/Assets/*.png"
+    ]
+  }
+}

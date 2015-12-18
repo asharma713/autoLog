@@ -1,0 +1,6 @@
+framework module autoLog {
+  umbrella header "autoLog-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module Pods_autoLog_Tests {
+  umbrella header "Pods-autoLog_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
