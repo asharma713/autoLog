@@ -25,7 +25,7 @@ Pod::Spec.new do |s|
   # s.screenshots     = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
   s.license          = 'MIT'
   s.author           = { "Amit Sharma" => "amitsharma@mac.com" }
-  s.source           = { :git => "https://github.com/<GITHUB_USERNAME>/autoLog.git", :tag => s.version.to_s }
+  s.source           = { :git => "https://github.com/asharma713/autoLog.git", :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.platform     = :ios, '7.0'
