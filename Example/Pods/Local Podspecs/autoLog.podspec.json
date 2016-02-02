@@ -1,6 +1,6 @@
 {
   "name": "autoLog",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "This is not a useful pod",
   "description": "\"This is not a useful pod. I've made it for the sake of simply learning how to make a pod\"",
   "homepage": "https://github.com/asharma713/autoLog",
@@ -9,8 +9,8 @@
     "Amit Sharma": "amitsharma@mac.com"
   },
   "source": {
-    "git": "https://github.com/<GITHUB_USERNAME>/autoLog.git",
-    "tag": "0.1.0"
+    "git": "https://github.com/asharma713/autoLog.git",
+    "tag": "0.2.0"
   },
   "platforms": {
     "ios": "7.0"

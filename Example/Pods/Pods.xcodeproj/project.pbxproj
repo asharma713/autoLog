@@ -7,17 +7,18 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		06514F35CE79252D55A78BAB9FAD35A8 /* detail_arrow.png in Resources */ = {isa = PBXBuildFile; fileRef = B2ADF23E3E9F0C69680E97023806B47C /* detail_arrow.png */; };
 		1ED14BB4D9B63F457C0E4BFA8C60F8AB /* autoLog.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 4B38C249058025BA88EB2CD93E3DBE4D /* autoLog.bundle */; };
-		29354412CBD3624FCF563D922F3227BF /* ASTAutoLoggerVC.h in Headers */ = {isa = PBXBuildFile; fileRef = 3F89C8A65C12BDC8244360740F195393 /* ASTAutoLoggerVC.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		2D25D865A15B9B1CDB014EDF18148F4F /* autoLog-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = B3274B40E5A95F2116D7DC4FE3BD54C6 /* autoLog-dummy.m */; };
+		29354412CBD3624FCF563D922F3227BF /* ASTAutoLoggerVC.h in Headers */ = {isa = PBXBuildFile; fileRef = 719B0210E8D6D3397EED9559C07AFC1D /* ASTAutoLoggerVC.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		2D25D865A15B9B1CDB014EDF18148F4F /* autoLog-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = D5AC91C9935871FD49EA6EE7E9E3C1AD /* autoLog-dummy.m */; };
 		438747FECBB6B43C885E6974665F9C59 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3E4E89230EF59BC255123B67864ACF77 /* Foundation.framework */; };
 		4896C0FE777CA1B20B7E01D762F34B51 /* Pods-autoLog_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 25E161B64D8ABC3F18F7AC7D46FF10A9 /* Pods-autoLog_Example-dummy.m */; };
 		4BF24982F0785AA79AB4F614F31360DE /* Pods-autoLog_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = C627C6BEBC6C709EEC2BD0D801F03EF5 /* Pods-autoLog_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		5EBE173A513D870761EA8A2813496B41 /* Pods-autoLog_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 6A886146131808F064D5B1B405A2A9C8 /* Pods-autoLog_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		66FCC2095B78F5C139EB52299158FD51 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3E4E89230EF59BC255123B67864ACF77 /* Foundation.framework */; };
 		92008C5E8F42D513BEB67AC299AF2777 /* Pods-autoLog_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 134784F8871BDBF24C8201B6ECBA371F /* Pods-autoLog_Tests-dummy.m */; };
-		A511FF6CC89844024E5B06F365897877 /* autoLog-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 4C0D474FFA4059DAFBB9BAEF7E9BE294 /* autoLog-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		CD85D6DE9A3E04F4DB204557F1342D89 /* ASTAutoLoggerVC.m in Sources */ = {isa = PBXBuildFile; fileRef = FF1A3775DA8E76168BD501F8781C9BE0 /* ASTAutoLoggerVC.m */; };
+		A511FF6CC89844024E5B06F365897877 /* autoLog-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = A679E9CE59F70D06CC7C38BC44071E8F /* autoLog-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CD85D6DE9A3E04F4DB204557F1342D89 /* ASTAutoLoggerVC.m in Sources */ = {isa = PBXBuildFile; fileRef = E6AD1849BA6AB42A125634521F247756 /* ASTAutoLoggerVC.m */; };
 		DD6ED9F69FDB493D59B49E41ABA205E4 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3E4E89230EF59BC255123B67864ACF77 /* Foundation.framework */; };
 /* End PBXBuildFile section */
 
@@ -46,40 +47,41 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		10C2032B76D18E7A2654EA444DB6465E /* autoLog.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = autoLog.modulemap; sourceTree = "<group>"; };
 		11922D102676AA5BB7CB5255513FA656 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		11B18E616261BADCDEF464E643A3CCE5 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		134784F8871BDBF24C8201B6ECBA371F /* Pods-autoLog_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-autoLog_Tests-dummy.m"; sourceTree = "<group>"; };
 		17EE2A453E3EC567D151CCB2229913CB /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		202B432010056A845056368F9D1DB9A5 /* autoLog.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = autoLog.modulemap; sourceTree = "<group>"; };
 		233F0370006CE702C0100957AC7C9301 /* Pods_autoLog_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_autoLog_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		25E161B64D8ABC3F18F7AC7D46FF10A9 /* Pods-autoLog_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-autoLog_Example-dummy.m"; sourceTree = "<group>"; };
-		26146D78B4AB49AA697889FB3F2A2D29 /* autoLog.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = autoLog.xcconfig; sourceTree = "<group>"; };
 		2FBAA6FB52FF13851B215E292BA586D6 /* autoLog.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = autoLog.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		3E4E89230EF59BC255123B67864ACF77 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
-		3F89C8A65C12BDC8244360740F195393 /* ASTAutoLoggerVC.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = ASTAutoLoggerVC.h; sourceTree = "<group>"; };
 		481364EF228028FDD7E7A7B29869D8AE /* Pods_autoLog_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_autoLog_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		4B19DA08F54C23249A8FAABDF1A14745 /* Pods-autoLog_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-autoLog_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		4B38C249058025BA88EB2CD93E3DBE4D /* autoLog.bundle */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = autoLog.bundle; sourceTree = BUILT_PRODUCTS_DIR; };
-		4C0D474FFA4059DAFBB9BAEF7E9BE294 /* autoLog-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "autoLog-umbrella.h"; sourceTree = "<group>"; };
 		4CC4CACB7DCF46C43278A4CB26A84B04 /* Pods-autoLog_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-autoLog_Example-frameworks.sh"; sourceTree = "<group>"; };
 		4DBAAFD2FFB5AB27E9C7E1200CE6E911 /* Pods-autoLog_Tests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-autoLog_Tests-resources.sh"; sourceTree = "<group>"; };
 		4F1384B1C185FDC637958D7F87B23581 /* Pods-autoLog_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-autoLog_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
+		505E33B4C89D113603BFDD9C1196C0D8 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5ABD20129ECCB3DCE682627B5FE269EE /* Pods-autoLog_Example-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-autoLog_Example-resources.sh"; sourceTree = "<group>"; };
 		62F2C1E53B5FA3C7D2CBA4A66B93776A /* Pods-autoLog_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-autoLog_Example.release.xcconfig"; sourceTree = "<group>"; };
-		670DC5E5C808F58400F80487C4E5534C /* autoLog-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "autoLog-prefix.pch"; sourceTree = "<group>"; };
 		6A886146131808F064D5B1B405A2A9C8 /* Pods-autoLog_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-autoLog_Tests-umbrella.h"; sourceTree = "<group>"; };
+		719B0210E8D6D3397EED9559C07AFC1D /* ASTAutoLoggerVC.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = ASTAutoLoggerVC.h; sourceTree = "<group>"; };
 		83864DC252B0DE0D6F7C26574A4569F6 /* Pods-autoLog_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-autoLog_Example-acknowledgements.plist"; sourceTree = "<group>"; };
 		8A5FD02DD71031A61DB2F346570A8D9E /* Pods-autoLog_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-autoLog_Tests.modulemap"; sourceTree = "<group>"; };
-		B3274B40E5A95F2116D7DC4FE3BD54C6 /* autoLog-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "autoLog-dummy.m"; sourceTree = "<group>"; };
+		A679E9CE59F70D06CC7C38BC44071E8F /* autoLog-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "autoLog-umbrella.h"; sourceTree = "<group>"; };
+		B2ADF23E3E9F0C69680E97023806B47C /* detail_arrow.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = detail_arrow.png; sourceTree = "<group>"; };
 		BA6428E9F66FD5A23C0A2E06ED26CD2F /* Podfile */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		C627C6BEBC6C709EEC2BD0D801F03EF5 /* Pods-autoLog_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-autoLog_Example-umbrella.h"; sourceTree = "<group>"; };
+		CF0C71A830A464D996E526537348E27F /* autoLog-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "autoLog-prefix.pch"; sourceTree = "<group>"; };
+		D5AC91C9935871FD49EA6EE7E9E3C1AD /* autoLog-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "autoLog-dummy.m"; sourceTree = "<group>"; };
 		D61336979C26F0DA7DB6FEC4311FE427 /* Pods-autoLog_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-autoLog_Tests-frameworks.sh"; sourceTree = "<group>"; };
 		D7219BFB726787E1BFA69F77235F7D96 /* Pods-autoLog_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-autoLog_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		DD2F4C8B12A201A2D86B85B57FE59F0F /* Pods-autoLog_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-autoLog_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
+		E6AD1849BA6AB42A125634521F247756 /* ASTAutoLoggerVC.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = ASTAutoLoggerVC.m; sourceTree = "<group>"; };
 		ED8E1F97DD8D30462F6CE1B85986164F /* Pods-autoLog_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-autoLog_Example.modulemap"; sourceTree = "<group>"; };
 		EF53A71E8ABD9AC1B0FBF1BC23BF6C8A /* Pods-autoLog_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-autoLog_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		F765CAE5A022A226A221AEF48002D5E1 /* Pods-autoLog_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-autoLog_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
-		FF1A3775DA8E76168BD501F8781C9BE0 /* ASTAutoLoggerVC.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = ASTAutoLoggerVC.m; sourceTree = "<group>"; };
+		FA6D9E5D79011D5D6CEFDB6DB47F30D6 /* autoLog.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = autoLog.xcconfig; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -117,18 +119,12 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		53B89ACB3ADA3F47E56D6116C2D23E4C /* Support Files */ = {
+		5911841325C4C476655916CD2660BA2E /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				10C2032B76D18E7A2654EA444DB6465E /* autoLog.modulemap */,
-				26146D78B4AB49AA697889FB3F2A2D29 /* autoLog.xcconfig */,
-				B3274B40E5A95F2116D7DC4FE3BD54C6 /* autoLog-dummy.m */,
-				670DC5E5C808F58400F80487C4E5534C /* autoLog-prefix.pch */,
-				4C0D474FFA4059DAFBB9BAEF7E9BE294 /* autoLog-umbrella.h */,
-				11B18E616261BADCDEF464E643A3CCE5 /* Info.plist */,
+				BFCD9FD98E79D9AD55C623F6E9427497 /* Pod */,
 			);
-			name = "Support Files";
-			path = "Example/Pods/Target Support Files/autoLog";
+			name = Resources;
 			sourceTree = "<group>";
 		};
 		6C9C6718DEF1F29059793E53DAA600CE /* Pods-autoLog_Tests */ = {
@@ -149,11 +145,19 @@
 			path = "Target Support Files/Pods-autoLog_Tests";
 			sourceTree = "<group>";
 		};
+		7CED2E0FFC023056E4D9B6FCC5401036 /* Pod */ = {
+			isa = PBXGroup;
+			children = (
+				B2BE5462519E2DCBDDA6AC856BA31533 /* Classes */,
+			);
+			path = Pod;
+			sourceTree = "<group>";
+		};
 		7DB346D0F39D3F0E887471402A8071AB = {
 			isa = PBXGroup;
 			children = (
 				BA6428E9F66FD5A23C0A2E06ED26CD2F /* Podfile */,
-				B6C1475BF1AD27AF62A85CC7FAA9C487 /* Development Pods */,
+				865B95E05520735F17BF821C7E0DD6BA /* Development Pods */,
 				BC3CA7F9E30CC8F7E2DD044DD34432FC /* Frameworks */,
 				F10A8864D1F7B30C63FBC75EA233781B /* Products */,
 				84F4C806ECCBC88EC3E5346DE2FE9E56 /* Targets Support Files */,
@@ -169,12 +173,21 @@
 			name = "Targets Support Files";
 			sourceTree = "<group>";
 		};
-		B6C1475BF1AD27AF62A85CC7FAA9C487 /* Development Pods */ = {
+		865B95E05520735F17BF821C7E0DD6BA /* Development Pods */ = {
 			isa = PBXGroup;
 			children = (
-				EA2F43DDCB1CD41443E8065C389741C1 /* autoLog */,
+				E110A00F190D42F491755F3A5B6EC263 /* autoLog */,
 			);
 			name = "Development Pods";
+			sourceTree = "<group>";
+		};
+		B2BE5462519E2DCBDDA6AC856BA31533 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				719B0210E8D6D3397EED9559C07AFC1D /* ASTAutoLoggerVC.h */,
+				E6AD1849BA6AB42A125634521F247756 /* ASTAutoLoggerVC.m */,
+			);
+			path = Classes;
 			sourceTree = "<group>";
 		};
 		BC3CA7F9E30CC8F7E2DD044DD34432FC /* Frameworks */ = {
@@ -193,10 +206,10 @@
 			name = iOS;
 			sourceTree = "<group>";
 		};
-		CF468AE18E11DCFE2D72F636F6E22417 /* Pod */ = {
+		BFCD9FD98E79D9AD55C623F6E9427497 /* Pod */ = {
 			isa = PBXGroup;
 			children = (
-				E216DF077B2DAB7B0061FFFC5779514E /* Classes */,
+				F07B52D360B3A7013E09F2E3B54E9FE0 /* Assets */,
 			);
 			path = Pod;
 			sourceTree = "<group>";
@@ -219,23 +232,37 @@
 			path = "Target Support Files/Pods-autoLog_Example";
 			sourceTree = "<group>";
 		};
-		E216DF077B2DAB7B0061FFFC5779514E /* Classes */ = {
+		E110A00F190D42F491755F3A5B6EC263 /* autoLog */ = {
 			isa = PBXGroup;
 			children = (
-				3F89C8A65C12BDC8244360740F195393 /* ASTAutoLoggerVC.h */,
-				FF1A3775DA8E76168BD501F8781C9BE0 /* ASTAutoLoggerVC.m */,
-			);
-			path = Classes;
-			sourceTree = "<group>";
-		};
-		EA2F43DDCB1CD41443E8065C389741C1 /* autoLog */ = {
-			isa = PBXGroup;
-			children = (
-				CF468AE18E11DCFE2D72F636F6E22417 /* Pod */,
-				53B89ACB3ADA3F47E56D6116C2D23E4C /* Support Files */,
+				7CED2E0FFC023056E4D9B6FCC5401036 /* Pod */,
+				5911841325C4C476655916CD2660BA2E /* Resources */,
+				EB6EADDDA65168C21D0E62C2F0F6F333 /* Support Files */,
 			);
 			name = autoLog;
 			path = ../..;
+			sourceTree = "<group>";
+		};
+		EB6EADDDA65168C21D0E62C2F0F6F333 /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				202B432010056A845056368F9D1DB9A5 /* autoLog.modulemap */,
+				FA6D9E5D79011D5D6CEFDB6DB47F30D6 /* autoLog.xcconfig */,
+				D5AC91C9935871FD49EA6EE7E9E3C1AD /* autoLog-dummy.m */,
+				CF0C71A830A464D996E526537348E27F /* autoLog-prefix.pch */,
+				A679E9CE59F70D06CC7C38BC44071E8F /* autoLog-umbrella.h */,
+				505E33B4C89D113603BFDD9C1196C0D8 /* Info.plist */,
+			);
+			name = "Support Files";
+			path = "Example/Pods/Target Support Files/autoLog";
+			sourceTree = "<group>";
+		};
+		F07B52D360B3A7013E09F2E3B54E9FE0 /* Assets */ = {
+			isa = PBXGroup;
+			children = (
+				B2ADF23E3E9F0C69680E97023806B47C /* detail_arrow.png */,
+			);
+			path = Assets;
 			sourceTree = "<group>";
 		};
 		F10A8864D1F7B30C63FBC75EA233781B /* Products */ = {
@@ -323,7 +350,7 @@
 			buildPhases = (
 				A18F3066BC58BBBBB4B86C81B87C8167 /* Sources */,
 				F9287806A239B224A06A3E6241EEF1B8 /* Frameworks */,
-				61620FA41F9BB1B980E2B743044D35D1 /* Resources */,
+				E24D09F59ECE76E7D4177BE1153ABE9D /* Resources */,
 			);
 			buildRules = (
 			);
@@ -390,10 +417,11 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		61620FA41F9BB1B980E2B743044D35D1 /* Resources */ = {
+		E24D09F59ECE76E7D4177BE1153ABE9D /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				06514F35CE79252D55A78BAB9FAD35A8 /* detail_arrow.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -531,7 +559,7 @@
 		};
 		1365DC105A530EDA03365258451F9E3A /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 26146D78B4AB49AA697889FB3F2A2D29 /* autoLog.xcconfig */;
+			baseConfigurationReference = FA6D9E5D79011D5D6CEFDB6DB47F30D6 /* autoLog.xcconfig */;
 			buildSettings = {
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				PRODUCT_NAME = autoLog;
@@ -633,7 +661,7 @@
 		};
 		5E554036AAEFEB857FC83B548EB1DF76 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 26146D78B4AB49AA697889FB3F2A2D29 /* autoLog.xcconfig */;
+			baseConfigurationReference = FA6D9E5D79011D5D6CEFDB6DB47F30D6 /* autoLog.xcconfig */;
 			buildSettings = {
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CURRENT_PROJECT_VERSION = 1;
@@ -660,7 +688,7 @@
 		};
 		6499C8FF5EEDD276882E7A95C7A9FF49 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 26146D78B4AB49AA697889FB3F2A2D29 /* autoLog.xcconfig */;
+			baseConfigurationReference = FA6D9E5D79011D5D6CEFDB6DB47F30D6 /* autoLog.xcconfig */;
 			buildSettings = {
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CURRENT_PROJECT_VERSION = 1;
@@ -717,7 +745,7 @@
 		};
 		EDF42DE1F97F6D6150D02EDC0EEF0CA0 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 26146D78B4AB49AA697889FB3F2A2D29 /* autoLog.xcconfig */;
+			baseConfigurationReference = FA6D9E5D79011D5D6CEFDB6DB47F30D6 /* autoLog.xcconfig */;
 			buildSettings = {
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				PRODUCT_NAME = autoLog;

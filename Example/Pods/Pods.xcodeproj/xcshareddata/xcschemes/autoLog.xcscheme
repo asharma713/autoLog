@@ -14,7 +14,7 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = 'primary'
-               BlueprintIdentifier = '576CD81847C340B0FD373341'
+               BlueprintIdentifier = '61BE8B402191E633D9266901'
                BlueprintName = 'autoLog'
                ReferencedContainer = 'container:Pods.xcodeproj'
                BuildableName = 'autoLog.framework'>

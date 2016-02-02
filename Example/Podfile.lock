@@ -1,5 +1,5 @@
 PODS:
-  - autoLog (0.1.0)
+  - autoLog (0.2.0)
 
 DEPENDENCIES:
   - autoLog (from `../`)
@@ -9,6 +9,6 @@ EXTERNAL SOURCES:
     :path: ../
 
 SPEC CHECKSUMS:
-  autoLog: c1047314f919553324a642794e5076ddaf5ea7d7
+  autoLog: c50e42a2a1b3741f0652dd02d28234216d9ce59c
 
 COCOAPODS: 0.39.0
